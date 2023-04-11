@@ -1,2 +1,2 @@
-import "./js/team";
-import "./css/style.css";
+import './js/team';
+import './css/style.css';
